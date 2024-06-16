@@ -1,0 +1,5 @@
+section{
+  padding:10rem 3rem;
+  position: relative;
+  z-index: 0;/* 헤더보다는 낮아야함 */
+}
